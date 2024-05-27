@@ -25,12 +25,9 @@
 
 使用
 
-编辑llama_rag.py，填写实际的embedding模型路径，reranker模型路径，llm模型路径。
+编辑llama_rag.py，填写实际的embedding模型路径，reranker模型路径，llm模型路径。运行llama_rag.py即可。
 
-运行llama_rag.py即可。
-
-输入new，可以开启新一轮对话。
-输入exit，可以退出程序。
+输入new，可以开启新一轮对话。输入exit，可以退出程序。
 
 
 其他
