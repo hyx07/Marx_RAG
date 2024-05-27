@@ -19,8 +19,9 @@
   reranker: https://huggingface.co/BAAI/bge-reranker-v2-m3
   
   llm: https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat
-  
 
+  可以使用huggingface中国镜像站：hf-mirror.com
+  
 
 使用
 
