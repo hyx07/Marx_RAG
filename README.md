@@ -6,9 +6,11 @@
 
 2.安装第三方库。
 
-  pip install transformers accelerate bitsandbytes langchain sentence-transformers faiss-gpu
+    pip install transformers accelerate bitsandbytes langchain sentence-transformers faiss-gpu
   
 3.下载马恩全集faiss数据库，百度网盘：https://pan.baidu.com/s/1M1PpMz5Kak6TFBJJKJZ-Kg?pwd=wk5h
+
+  下载的database文件夹放在与llama_rag.py同级目录即可。
 
 4.下载embedding模型，reranker模型以及llm：
 
@@ -30,5 +32,5 @@
 
 其他
 
-参考faiss_generation.py以及merge_database.py可以制作其他预料的faiss数据库。
+参考faiss_generation.py以及merge_database.py可以制作其他语料的faiss数据库。
 
