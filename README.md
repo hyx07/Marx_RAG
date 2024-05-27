@@ -19,11 +19,13 @@
   llm: https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat
   
 
+
 使用
 
 编辑llama_rag.py，填写实际的embedding模型路径，reranker模型路径，llm模型路径。
 
 运行llama_rag.py即可。
+
 
 
 其他
