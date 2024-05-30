@@ -97,6 +97,7 @@ while True:
         conversation_history = '无\n'
         
     final_prompt = pre_text.format(context=context, history=conversation_history, question=user_input)
+    #uncomment to see the actual prompt, segments extracted, etc.
     #print(final_prompt)
 
     messages = [
